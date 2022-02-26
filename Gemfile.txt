@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 gemspec
+gem "academic"
 gem 'jekyll-feed'
 gem 'redcarpet'
 

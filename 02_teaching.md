@@ -6,7 +6,7 @@ permalink: /teaching/
 ---
 
 
-### University Duisburg-Essen
+### University of Duisburg-Essen
 <p> </p>
 
 - **Feminist Economics**, WT 2021/22 \

@@ -5,7 +5,6 @@ menu: main
 permalink: /teaching/
 ---
 
-## Teaching
 
 ### University Duisburg-Essen
 <p> </p>

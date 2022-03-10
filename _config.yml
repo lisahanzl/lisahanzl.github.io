@@ -9,7 +9,7 @@ author_display: false
 
 nav_ext_links:
   - name: CV
-    url: https://lisahanzl.github.io/assets/CV_Lisa_Hanzl_EN_2022.pdf
+    url: https://lisahanzl.github.io/assets/CV_Lisa_Hanzl_2022.pdf
     
 remote_theme: gaalcaras/academic
 plugins:

@@ -65,11 +65,11 @@ $breakpoint-medium: 75em;
 $breakpoint-small: 45em;
 
 @mixin size($level) {
-  font-size: map-get($type-scale-large, $level);
+  font-size: map-get($type-scale-medium, $level);
   line-height: map-get($type-line-large, $level);
 
   @media (max-width: $breakpoint-medium) {
-    font-size: map-get($type-scale-medium, $level);
+    font-size: map-get($type-scale-small, $level);
     line-height: map-get($type-line-medium, $level);
   }
   @media (max-width: $breakpoint-small) {

@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lisahanzl
 github_username:  lisahanzl
-author_display: true
+author_display: false
 
 nav_ext_links:
   - name: CV

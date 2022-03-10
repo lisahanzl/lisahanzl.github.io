@@ -1,1 +1,1 @@
-This is the repository for my academic website, which is based on the Jekyll theme "academic" by Gabriel Alcaras.
+This is the repository for my academic website, which is based on the Jekyll theme "academic" by Gabriel Alcaras, with some alterations from [Lukas Lehner](https://github.com/lukaslehner/lukaslehner.github.io).

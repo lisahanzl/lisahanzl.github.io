@@ -18,7 +18,7 @@ permalink: /research/
 
 ### Policy Briefs
 <p> </p>
-- Hanzl, L., Wacker, K., Huber, A. & Picek, O. (2021). Steuervermeidung von Konzernen: 734 Millionen Euro sind der Allgemeinheit entgangen. *Momentum Institut Policy Brief*. [PDF](https://www.momentum-institut.at/system/files/2021-02/moment_policybrief_ctrd.pdf){:target="_blank"}
+- Hanzl, L., Wacker, K., Huber, A. & Picek, O. (2021). Steuervermeidung von Konzernen: 734 Millionen Euro sind der Allgemeinheit entgangen. *Momentum Institut Policy Brief*. [**PDF**](https://www.momentum-institut.at/system/files/2021-02/moment_policybrief_ctrd.pdf){:target="_blank"}
 - Hanzl, L. & Picek, O. (2020). Langzeitarbeitslosigkeit nähert sich Rekordwert vom Jänner 2017. *Momentum Institut Policy Brief*. [**PDF**](https://www.momentum-institut.at/system/files/2021-01/pb_21.2020_1112_langzeitarbeitslosigkeit.pdf){:target="_blank"}
 - Schmidt, A. E. & Hanzl, L. (2020). Pflege betrifft uns alle: Zwei Drittel betreuen im Laufe ihres Lebens Angehörige. *Momentum Institut Policy Brief*. [**PDF**](https://www.momentum-institut.at/system/files/2020-07/200712_m_paper_pflege.pdf){:target="_blank"}
 - Hanzl, L., Maschke, A. & Picek, O. (2020). ATX-Konzerne: Mit einem Bein im Steuersumpf?. *Momentum Institut Policy Brief*. [**PDF**](https://www.momentum-institut.at/system/files/2020-06/moment_policybrief_steuersenkung_20200605.pdf){:target="_blank"}

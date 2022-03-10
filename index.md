@@ -6,8 +6,8 @@ layout: about
 title: Lisa Hanzl
 ---
 
-### Hi,
+### Hello,
 
-I am a PhD student at the University of Duisburg-Essen, [Institute for Socioeconomics](https://www.uni-due.de/soziooekonomie/hanzl).
+I am a PhD student at the University of Duisburg-Essen, [Institute for Socioeconomics](https://www.uni-due.de/soziooekonomie/hanzl){:target="_blank"}.
 
 My main research interest are labor economics and applied microeconometrics.

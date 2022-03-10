@@ -10,4 +10,4 @@ permalink: /teaching/
 <p> </p>
 
 - **Feminist Economics** (undergraduate), 2021/22 \
-BA Political Science. Seminar leader. [Syllabus](https://lisahanzl.github.io/assets/Fem_Econ_BA_Syllabus.pdf){:target="_blank"}
+BA Political Science, lecturer, [Syllabus](https://lisahanzl.github.io/assets/Fem_Econ_BA_Syllabus.pdf){:target="_blank"}.

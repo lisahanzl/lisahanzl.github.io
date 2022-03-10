@@ -8,6 +8,6 @@ title: Lisa Hanzl
 
 ### Hello,
 
-I am a PhD student at the University of Duisburg-Essen, [Institute for Socioeconomics](https://www.uni-due.de/soziooekonomie/hanzl){:target="_blank"}.
+I am a PhD student at the [Institute for Socioeconomics](https://www.uni-due.de/soziooekonomie/hanzl){:target="_blank"} of the University of Duisburg-Essen. Currently, I am a visiting researcher at the Economics Department of the Yale University.
 
-My main research interest are labor economics and applied microeconometrics.
+My main research interests are labor economics, especially labor supply issues and unemployment insurance, and applied microeconometrics. I am also interested in topics around inequality, especially in regards to gender and race. My dissertation revolves around gendered dynamics on labor markets.

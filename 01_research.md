@@ -19,7 +19,7 @@ permalink: /research/
 ### Conferences and Seminars
 <p> </p>
 - 2022: Yale University -- Labor/Public Economics Prospectus Workshop
-- 2021: [Young Economist Conference 2021] (https://wien.arbeiterkammer.at/yec2021){:target="_blank"} (Eduard März Award for Best Conference Paper), 25th FMM Conference, 33rd Annual EAEPE Conference, 29th IAFFE Annual Conference
+- 2021: [Young Economist Conference 2021](https://wien.arbeiterkammer.at/yec2021){:target="_blank"} (Eduard März Award for Best Conference Paper), 25th FMM Conference, 33rd Annual EAEPE Conference, 29th IAFFE Annual Conference
 <p> </p>
 
 ### Policy Briefs

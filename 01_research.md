@@ -16,6 +16,12 @@ permalink: /research/
 - Hanzl, L., & Rehm, M. (2021). Less Work, More Labor: School Closures Due to Covid-19 and Parents' Work Hours in Austria. *ifso Working Paper* (No. 12). [**PDF**](https://www.uni-due.de/imperia/md/content/soziooekonomie/ifsowp12_hanzlrehm2021.pdf){:target="_blank"}
 <p> </p>
 
+### Conferences and Seminars
+<p> </p>
+- 2022: Yale University -- Labor/Public Economics Prospectus Workshop
+- 2021: [Young Economist Conference 2021] (https://wien.arbeiterkammer.at/yec2021){:target="_blank"} (Eduard März Award for Best Conference Paper), 25th FMM Conference, 33rd Annual EAEPE Conference, 29th IAFFE Annual Conference
+<p> </p>
+
 ### Policy Briefs
 <p> </p>
 - Hanzl, L., Wacker, K., Huber, A. & Picek, O. (2021). Steuervermeidung von Konzernen: 734 Millionen Euro sind der Allgemeinheit entgangen. *Momentum Institut Policy Brief*. [**PDF**](https://www.momentum-institut.at/system/files/2021-02/moment_policybrief_ctrd.pdf){:target="_blank"}

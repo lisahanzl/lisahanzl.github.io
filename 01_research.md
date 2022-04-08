@@ -13,7 +13,7 @@ permalink: /research/
 
 ### Working Papers
 <p> </p>
-- Hanzl, L., & Rehm, M. (2021). Less Work, More Labor: School Closures Due to Covid-19 and Parents' Work Hours in Austria. *ifso Working Paper* (No. 12). [**PDF**](https://www.uni-due.de/imperia/md/content/soziooekonomie/ifsowp12_hanzlrehm2021.pdf){:target="_blank"}. 
+- Hanzl, L., & Rehm, M. (2021). Less Work, More Labor: School Closures Due to Covid-19 and Parents' Work Hours in Austria. *ifso Working Paper* (No. 12). [**PDF**](https://www.uni-due.de/imperia/md/content/soziooekonomie/ifsowp12_hanzlrehm2021.pdf){:target="_blank"}
   - Media Coverage: [Kleine Zeitung](https://www.kleinezeitung.at/politik/5981546/Frauen-unter-Druck_Folgen-der-Pandemie_Nur-Frauen-reduzierten){:target="_blank"}, [Moment](https://www.moment.at/story/schulschließungen-pandemie-arbeit){:target="_blank"}
 <p> </p>
 

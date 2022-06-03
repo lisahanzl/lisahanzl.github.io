@@ -17,6 +17,11 @@ permalink: /research/
   - Media Coverage: [Kleine Zeitung](https://www.kleinezeitung.at/politik/5981546/Frauen-unter-Druck_Folgen-der-Pandemie_Nur-Frauen-reduzierten){:target="_blank"}, [Moment](https://www.moment.at/story/schulschließungen-pandemie-arbeit){:target="_blank"}
 <p> </p>
 
+### Work in Progress
+<p> </p>
+- Earnings exemptions and the duration of unemployment: The role of income constraints
+<p> </p>
+
 ### Conferences and Seminars
 <p> </p>
 - 2022: Yale University -- Labor/Public Economics Prospectus Workshop

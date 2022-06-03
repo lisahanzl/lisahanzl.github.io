@@ -9,7 +9,7 @@ title: Lisa Hanzl
 ### Hello,
 <p> </p>
 
-I am a PhD student at the [Institute for Socioeconomics](https://www.uni-due.de/soziooekonomie/hanzl){:target="_blank"} of the University of Duisburg-Essen. Currently, I am a visiting researcher at the Yale University Economics Department. I am also part of the [Momentum Institut](https://www.momentum-institut.at/author/lisa-hanzl){:target="_blank"}.
+I am a PhD student at the [Institute for Socioeconomics](https://www.uni-due.de/soziooekonomie/hanzl){:target="_blank"} of the University of Duisburg-Essen. I completed my master’s in economics at the WU Vienna University of Economics and Business and also earned a bachelor’s degree in business administration focusing on economics from the University of Vienna. In spring 2022, I was a visiting researcher at the Yale University Economics Department. I am also part of the [Momentum Institut](https://www.momentum-institut.at/author/lisa-hanzl){:target="_blank"}.
 
 My main research interests are labor economics, especially topics around unemployment, and applied microeconometrics. I am also interested in inequality, specifically in regards to gender and race. 
 

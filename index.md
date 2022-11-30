@@ -13,4 +13,4 @@ I am a PhD candidate at the [Institute for Socioeconomics](https://www.uni-due.d
 
 My main research interests are labor economics, especially topics around unemployment, and applied microeconometrics. I am also interested in inequality, specifically in regards to gender and race. 
 
-Feel free to contact me via [mail](mailto:lisa.hanzl@uni-due.de){:target="_blank"}.
+Feel free to contact me via [mail](mailto:lisa.hanzl@icloud.com){:target="_blank"}.

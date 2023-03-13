@@ -8,6 +8,8 @@ permalink: /research/
 
 ### Peer-reviewed Publications
 <p> </p>
+- Hanzl, L., & Rehm, M. (forthcoming). Less Work, More Labor: School Closures Due to Covid-19 and Parents' Work Hours in Austria. *accepted at Feminist Economics* 
+<p> </p>
 - Hanzl, L. (2022). How the Quality of Long-Term Care Services Impacts Caring Relatives’ Well-Being in Austria. *Momentum Quarterly* Vol.11, No.1, p.3-17. [**PDF**](https://www.momentum-quarterly.org/ojs2/index.php/momentum/article/download/4039/2981){:target="_blank"} 
 <p> </p>
 
@@ -19,12 +21,13 @@ permalink: /research/
 
 ### Work in Progress
 <p> </p>
+- Fathers' parental leave and job dismissals
 - Earnings exemptions and the duration of unemployment: The role of income constraints
 <p> </p>
 
 ### Conferences and Seminars
 <p> </p>
-- 2022: Yale University -- Labor/Public Economics Prospectus Workshop
+- 2022: Yale University -- Labor/Public Economics Prospectus Workshop, Young Economist Conference, Momentum Kongress: Arbeit
 - 2021: [Young Economist Conference 2021](https://wien.arbeiterkammer.at/yec2021){:target="_blank"} (Eduard März Award for Best Conference Paper), 25th FMM Conference, 33rd Annual EAEPE Conference, 29th IAFFE Annual Conference
 <p> </p>
 

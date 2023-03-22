@@ -5,6 +5,10 @@ menu: main
 permalink: /teaching/
 ---
 
+### Free University Berlin
+<p> </p>
+- **Einführung in die Statistik I**, ST 2023 \
+BA Economics and BA Business, lecturer (together with Jan Marcus).
 
 ### University of Duisburg-Essen
 <p> </p>

@@ -21,13 +21,12 @@ permalink: /research/
 
 ### Work in Progress
 <p> </p>
-- Fathers' parental leave and job dismissals *together with Mattias Muckenhuber and Anna Pixer*
+- Fathers' parental leave and job separations *together with Stefan Halbauer*
 - Earnings exemptions and the duration of unemployment: The role of income constraints
 <p> </p>
 
 ### Conferences and Seminars
 <p> </p>
-- 2023: Feminist Economics Workshop @ IHS Vienna
 - 2022: Yale University -- Labor/Public Economics Prospectus Workshop, Young Economist Conference, Momentum Kongress: Arbeit
 - 2021: [Young Economist Conference 2021](https://wien.arbeiterkammer.at/yec2021){:target="_blank"} (Eduard März Award for Best Conference Paper), 25th FMM Conference, 33rd Annual EAEPE Conference, 29th IAFFE Annual Conference
 <p> </p>

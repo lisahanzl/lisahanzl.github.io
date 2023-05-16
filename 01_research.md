@@ -10,7 +10,7 @@ permalink: /research/
 <p> </p>
 - Hanzl, L., & Rehm, M. (forthcoming). Less Work, More Labor: School Closures Due to Covid-19 and Parents' Work Hours in Austria. *accepted at Feminist Economics* 
 <p> </p>
-- Hanzl, L. (2022). How the Quality of Long-Term Care Services Impacts Caring Relatives’ Well-Being in Austria. *Momentum Quarterly* Vol.11, No.1, p.3-17. [**PDF**](https://www.momentum-quarterly.org/ojs2/index.php/momentum/article/download/4039/2981){:target="_blank"} 
+- Hanzl, L. (2022). How the Quality of Long-Term Care Services Impacts Caring Relatives’ Well-Being in Austria. *Momentum Quarterly* Vol.11, No.1, p.3-17. [**PDF**](https://doi.org/10.15203/momentumquarterly.vol11.no1.p3-17){:target="_blank"} 
 <p> </p>
 
 ### Working Papers

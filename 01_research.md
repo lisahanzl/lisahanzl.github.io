@@ -21,7 +21,6 @@ permalink: /research/
 
 ### Work in Progress
 <p> </p>
-- Fathers' parental leave and job separations *together with Stefan Halbauer*
 - Earnings exemptions and the duration of unemployment: The role of income constraints
 <p> </p>
 

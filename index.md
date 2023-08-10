@@ -6,7 +6,6 @@ layout: about
 title: Lisa Hanzl
 ---
 
-### Hello,
 <p> </p>
 
 I'm a doctoral researcher at the [chair of applied statistics](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/angewandte-statistik/Team/mitarbeiter_innen/hanzl/index.html){:target="_blank"} of the FU Berlin's economics department. Until 2023, I was part of the graduate school "Political Economy of Inequality" at the [Institute for Socioeconomics](https://www.uni-due.de/soziooekonomie/hanzl){:target="_blank"} of the University of Duisburg-Essen. 

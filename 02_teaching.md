@@ -7,6 +7,7 @@ permalink: /teaching/
 
 ### Free University Berlin
 <p> </p>
+
 - **Statistik mit R**, WT 2023/24 \
 BA Economics and BA Business, lecturer
 

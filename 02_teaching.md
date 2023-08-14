@@ -7,6 +7,9 @@ permalink: /teaching/
 
 ### Free University Berlin
 <p> </p>
+- **Statistik mit R**, WT 2023/24 \
+BA Economics and BA Business, lecturer
+
 - **Einführung in die Statistik I**, ST 2023 \
 BA Economics and BA Business, lecturer (together with Jan Marcus).
 

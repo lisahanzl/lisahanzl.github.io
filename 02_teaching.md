@@ -16,7 +16,7 @@ BA Economics and BA Business, lecturer (together with Jan Marcus).
 
 <p> </p>
 
-I'm also part of the [fu:stat}](https://www.stat.fu-berlin.de/en/index.html) statistical consulting team, where I hold trainings in statistics and R and consult students, academic researchers and companies.
+I'm also part of the [fu:stat](https://www.stat.fu-berlin.de/en/index.html) statistical consulting team, where I hold trainings in statistics and R and consult students, academic researchers and companies.
 
 ### University of Duisburg-Essen
 <p> </p>

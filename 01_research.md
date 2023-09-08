@@ -21,6 +21,7 @@ permalink: /research/
 
 ### Work in Progress
 <p> </p>
+- Closures of Public Libraries, Educational Outcomes and Inequality
 - Earnings exemptions and the duration of unemployment: The role of income constraints
 <p> </p>
 

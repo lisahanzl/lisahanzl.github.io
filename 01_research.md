@@ -13,7 +13,7 @@ permalink: /research/
 <p> </p>
 
 <p> </p>
-- Hanzl, L. (2022). How the Quality of Long-Term Care Services Impacts Caring Relatives’ Well-Being in Austria. *Momentum Quarterly* Vol.11, No.1, p.3-17. [**PDF**](https://doi.org/10.15203/momentumquarterly.vol11.no1.p3-17){:target="_blank"} 
+- Hanzl, L. (2022). [How the Quality of Long-Term Care Services Impacts Caring Relatives’ Well-Being in Austria](https://doi.org/10.15203/momentumquarterly.vol11.no1.p3-17){:target="_blank"} . *Momentum Quarterly* Vol.11, No.1, p.3-17. 
 <p> </p>
 
 ### Work in Progress

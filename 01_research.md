@@ -8,7 +8,7 @@ permalink: /research/
 
 ### Peer-reviewed Publications
 <p> </p>
-- Hanzl, L., & Rehm, M. (2023). [Less Work, More Labor: School Closures Due to Covid-19 and Parents' Work Hours in Austria](https://www.tandfonline.com/doi/full/10.1080/13545701.2023.2251972){:target="_blank"}. *Feminist Economics*.
+- Hanzl, L., & Rehm, M. (2023). [Less Work, More Labor: School Closures Due to Covid-19 and Parents' Work Hours in Austria](https://www.tandfonline.com/doi/full/10.1080/13545701.2023.2251972){:target="_blank"}. *Feminist Economics*, 29 (4), 252-284.
   - Media Coverage: [Kleine Zeitung](https://www.kleinezeitung.at/politik/5981546/Frauen-unter-Druck_Folgen-der-Pandemie_Nur-Frauen-reduzierten){:target="_blank"}, [Moment](https://www.moment.at/story/schulschließungen-pandemie-arbeit){:target="_blank"}
 <p> </p>
 
